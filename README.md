@@ -1,5 +1,5 @@
 # colStretch.js
-This JavaScript file makes all elements in the same row with the class .colStretch the same height.
+This JavaScript file makes all elements in the same row with the class colStretch the same height.
 
 - Does not need any other Libraries to run.
 - Works responsively.
